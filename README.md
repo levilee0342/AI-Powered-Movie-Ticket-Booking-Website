@@ -49,16 +49,17 @@ Using Eclipse
 ### Chatbot
 
 1. **Install required libraries**:
+    - Using Python 3.9 
     - Install libraries such as `ChromaDB`, `Flask`
-  [requirements.txt](https://github.com/user-attachments/files/18357355/requirements.txt)
+    - [requirements.txt](https://github.com/user-attachments/files/18357355/requirements.txt)
     ```bash
     pip install -r requirements.txt
     ```
 
-2. **Configure the database** in:
+3. **Configure the database** in:
     `TicketBookingWebsite/src/main/webapp/WEB-INF/configs/spring-config-hibernate.xml`
 
-3. **Run the backend application**:
+4. **Run the backend application**:
 
     ```bash
     python app.py
