@@ -4,6 +4,25 @@
 
 The "Movie Ticket Booking Website" project is an online platform that allows users to easily book movie tickets. In addition to the booking functionality, the system also integrates an **intelligent chatbot** that assists users with movie schedules, film details, and special offers.
 
+### **Demo** : 
+    You can check out the project demo at:
+#### **Screenshots**
+
+##### 1. Homepage
+![image](https://github.com/user-attachments/assets/0a88b697-958f-4849-b83a-0e50be4c6ec8)
+
+##### 2. Ticket Booking Feature
+![image](https://github.com/user-attachments/assets/f4bcfcc8-f2f1-468d-a2a2-2b7ff98b9bb5)
+
+##### 3. Chatbot Assistant 
+![image](https://github.com/user-attachments/assets/e49ac3f7-5e5e-4776-b7f8-5c8d48d5cbe8)
+
+##### 4. Movie Management (Manager)
+![image](https://github.com/user-attachments/assets/c9099e97-166a-4a88-8f51-24c31a088638)
+
+##### 5. Schedule Management (Manager)
+![image](https://github.com/user-attachments/assets/63b1d2b0-62a6-43c8-b0a8-11a8a67c80ae)
+
 ### Key Features:
 
 **For Customers:**
