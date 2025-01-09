@@ -45,8 +45,11 @@ The "Movie Ticket Booking Website" project is an online platform that allows use
 - **Chatbot**: Python, ChromaDB
 - **Database**: SQL Server
 - **Chatbot Framework**: Flask, TensorFlow & Keras
-- **Other Tools**: Apache Tomcat, NLTK, Pickle, NumPy
-
+- **Others**: Apache Tomcat, NLTK, Pickle, NumPy
+- **Tools**:
+  - **Eclipse IDE**: Used for developing the movie ticket booking website.
+  - **PyCharm**: Used for developing the chatbot.
+  - **SQL Server Management Studio**: For data queries, transactions, and enforcing constraints.
 ## Installation and Usage
 
 Clone the project from GitHub:
